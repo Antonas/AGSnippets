@@ -1,6 +1,7 @@
 // Singleton
 // 
 //
+// IDECodeSnippetCompletionPrefix: singleton
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 6E8BEB7E-C9E3-419B-9C4E-B84A301094D7
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
