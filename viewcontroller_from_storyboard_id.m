@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 	UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
-	UIViewController *vc = [storyboard instantiateViewControllerWithIdentifier:@"ViewControllerID"];
+	UIViewController *vc = [storyboard instantiateViewControllerWithIdentifier:@"#ViewControllerID"];
